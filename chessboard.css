@@ -1,0 +1,114 @@
+#row1 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row1 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row1 > div:nth-child(even) {
+    background-color: coral;
+}
+
+#row2 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row2 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row2 > div:nth-child(odd) {
+    background-color: coral;
+}
+
+#row3 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row3 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row3 > div:nth-child(even) {
+    background-color: coral;
+}
+#row4 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row4 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row4 > div:nth-child(odd) {
+    background-color: coral;
+}
+#row5 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row5 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row5 > div:nth-child(even) {
+    background-color: coral;
+}
+#row6 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row6 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row6 > div:nth-child(odd) {
+    background-color: coral;
+}
+#row7 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row7 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row7 > div:nth-child(even) {
+    background-color: coral;
+}
+#row8 {
+    display: flex;
+    background-color: burlywood;
+    width: 400px;
+    height: 50px;
+}
+#row8 > div {
+    width: 50px;
+    height: 50px;
+    
+}
+#row8 > div:nth-child(odd) {
+    background-color: coral;
+}
